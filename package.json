@@ -1,7 +1,7 @@
 {
-  "name": "scv-buster",
+  "name": "scv-ubuntu",
   "version": "0.1.0",
-  "description": "Debian Buster development baseline container",
+  "description": "Ubuntu development baseline container",
   "main": "index.js",
   "directories": {
     "src": "src",
